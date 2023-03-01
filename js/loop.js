@@ -16,7 +16,7 @@ const prompt = require("prompt-sync")();
 // }
 
 
-//  ->do and while
+//  -> do and while
 // let i = 0;
 // do {
 //     console.log(i);
@@ -24,9 +24,18 @@ const prompt = require("prompt-sync")();
 // }while(i < 10);
 
 
-// for and of
+//  -> for and of
 // let sports = ["football", "volleyball", "basketball", "skate"];
 // for(let sport of sports){
 //     console.log(sport);
 // }
 
+//  -> for and in
+// let person = {
+//     name: "John",
+//     age: 31,
+//     weight: 60
+// };
+// for(let property in person){
+//     console.log(person[property]);
+// }
